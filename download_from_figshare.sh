@@ -1,0 +1,2 @@
+# wget https://ndownloader.figshare.com/files/22813406?private_link=466e909eea5a3e8ec1e3 -O data/data.zip
+wget https://stackoverflow.com/questions/1078524/how-to-specify-the-location-with-wget -O data/testing.html
